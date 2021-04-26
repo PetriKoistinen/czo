@@ -86,7 +86,7 @@
     <cs.powermock.version>1.5.3</cs.powermock.version>
     <cs.aws.sdk.version>1.9.8</cs.aws.sdk.version>
     <cs.lang.version>2.6</cs.lang.version>
-    <cs.commons-io.version>2.4</cs.commons-io.version>
+    <cs.commons-io.version>2.7</cs.commons-io.version>
     <cs.commons-validator.version>1.4.0</cs.commons-validator.version>
     <cs.reflections.version>0.9.8</cs.reflections.version>
     <cs.java-ipv6.version>0.15</cs.java-ipv6.version>
